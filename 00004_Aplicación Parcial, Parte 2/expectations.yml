@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: doble
+  inspection: Not:HasBinding
+- binding: dobleDelSiguiente
+  inspection: HasBinding
+- binding: dobleDelSiguiente
+  inspection: HasComposition
