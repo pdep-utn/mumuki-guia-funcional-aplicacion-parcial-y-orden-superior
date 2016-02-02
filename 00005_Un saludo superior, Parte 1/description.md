@@ -4,8 +4,8 @@ Y todos los dias recibimos muchas visitas de gente importante que quiere conocer
 
 Como queremos ser corteses, cuando la visita llega, queremos saludarla con un mensaje de bienvenida, por ejemplo:
 
-`"Hola Sr Barney Gomez"`
+`"Hola Barney Gomez"`
 
 Así que queremos codificar una función en Haskell que haga esto. 
 
-> Escribí la función `saludar` que tome un nombre y apellido 
+> Escribí la función `saludar` que tome un nombre y devuelva el saludo. Por ejemplo `saludar "Barney Gomez"`
