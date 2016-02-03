@@ -4,3 +4,5 @@ expectations:
   inspection: HasBinding
 - binding: esNoVacio
   inspection: HasComposition
+- binding: ''
+  inspection: ''

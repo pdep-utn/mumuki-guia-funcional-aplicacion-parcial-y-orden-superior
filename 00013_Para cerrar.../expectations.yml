@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: sumaDeDoblesSegun
+  inspection: HasBinding
+- binding: sumaDeDoblesSegun
+  inspection: HasComposition

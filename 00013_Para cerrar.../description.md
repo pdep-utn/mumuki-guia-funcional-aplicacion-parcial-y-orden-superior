@@ -2,7 +2,7 @@ Y para cerrar, no podia faltar un último ejercicio en el que usemos todo.
 
 > Definí una función `sumaDeDoblesSegun` que sume los siguientes de los dobles de dos valores, transformados según una función...
 
-Eh eh eh... ¿¿lo que?? 
+Eh eh eh... ¿¿lo que??  :fearful:
 
 > ...bueno, bancá, acá vienen los ejemplos: 
 > ```haskell
