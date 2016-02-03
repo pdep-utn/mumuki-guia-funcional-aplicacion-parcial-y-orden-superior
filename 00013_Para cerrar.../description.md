@@ -5,6 +5,7 @@ Y para cerrar, no podia faltar un último ejercicio en el que usemos todo.
 Eh eh eh... ¿¿lo que??  :fearful:
 
 > ...bueno, bancá, acá vienen los ejemplos: 
+>
 > ```haskell
 > ム sumaDeDoblesSegun 1 2 id 
 > 6 -- porque 2 * id 1 + 2 * id 2 == 6
