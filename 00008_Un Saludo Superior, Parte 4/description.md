@@ -28,10 +28,8 @@ saludar titulador nombre = "Hola " ++ titulador nombre
 
 Ahora titulador ya no es una función "fija"  sino que un parámetro de saludar!
 
-> No nos creas: copiá y pegá esta función y enviala. 
->
-> Y probala en la consola, ya que estamos. 
+> No nos creas: copiá y pegá esta función y enviala. Y **probala en la consola**, ya que estamos. 
 > 
-> Tambien dejamos las funciones `sr`, `sra`, `plana`, 
+> Tambien dejamos cargadas las funciones `sr`, `sra`, `plana` y `reyQuick`. Podés usarlas para probar. 
 
 
