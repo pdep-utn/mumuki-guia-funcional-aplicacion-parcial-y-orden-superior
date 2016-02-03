@@ -6,3 +6,5 @@ expectations:
   inspection: HasBinding
 - binding: dobleDelSiguiente
   inspection: HasComposition
+- binding: ''
+  inspection: ''
