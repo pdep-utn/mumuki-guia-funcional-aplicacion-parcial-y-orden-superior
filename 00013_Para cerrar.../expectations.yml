@@ -4,3 +4,5 @@ expectations:
   inspection: HasBinding
 - binding: sumaDeDoblesSegun
   inspection: HasComposition
+- binding: ''
+  inspection: ''
