@@ -9,7 +9,7 @@ saludarSr nombre = "Hola " ++ sr nombre
 saludarSra nombre = "Hola " ++ sra nombre
 ```
 
-**etc..**
+_etc.._
 
 ¿Genial no?
 
