@@ -2,3 +2,5 @@
 expectations:
 - binding: esPeorSegun
   inspection: HasBinding
+- binding: ''
+  inspection: ''
