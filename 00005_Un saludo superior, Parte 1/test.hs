@@ -3,5 +3,5 @@ descibre "saludo superior" $ do
      saludar "Barney Gomez" `shouldBe` saludar "Hola Barney Gomez"
      
   it "saludar \"Agus\""$ do 
-     saludar "Agus" `shouldBe` saludar "Agus"
+     saludar "Agus" `shouldBe` saludar "Hola Agus"
      
