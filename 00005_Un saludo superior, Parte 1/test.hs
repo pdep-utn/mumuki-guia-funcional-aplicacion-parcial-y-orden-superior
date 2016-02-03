@@ -1,7 +1,7 @@
 describe "saludo superior" $ do
   it "saludar \"Barney Gomez\""$ do 
-     saludar "Barney Gomez" `shouldBe` saludar "Hola Barney Gomez"
+     saludar "Barney Gomez" `shouldBe`  "Hola Barney Gomez"
      
   it "saludar \"Agus\""$ do 
-     saludar "Agus" `shouldBe` saludar "Hola Agus"
+     saludar "Agus" `shouldBe`  "Hola Agus"
      
