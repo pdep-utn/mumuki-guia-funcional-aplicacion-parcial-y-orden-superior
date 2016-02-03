@@ -9,9 +9,9 @@ it "funcionMisteriosa2 tipa" $ do
   funcionMisteriosa2 (+1) [2, 3] `shouldBe` 3
   
 it "functionMisteriosa3 tipa si el último argumento es un número"$ do
-  funcionMisteriosa3 const (+1) 4 `shouldBe` 5
+  funcionMisteriosa3 const (+1) 4 `shouldBe` (5 :: Int)
 
 it "functionMisteriosa3 tipa si el último argumento es una lista"$ do
-  funcionMisteriosa3 const (length) [3] `shouldBe` 1
+  funcionMisteriosa3 const (length) [3] `shouldBe` (1 :: Int)
   
   
