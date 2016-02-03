@@ -1,4 +1,4 @@
-descibre "saludo superior" $ do
+describe "saludo superior" $ do
   it "saludar \"Sr\" \"Barney Gomez\""$ do 
      saludar "Sr" "Barney Gomez" `shouldBe` saludar "Hola Sr Barney Gomez"
      
