@@ -25,7 +25,7 @@ doble x = x * 2
 O incluso, aún mas corto: 
 
 ```haskell
-dobleDelSiguiente = (+1).doble
+dobleDelSiguiente = doble.(+1)
 doble x = x * 2
 ```
 
