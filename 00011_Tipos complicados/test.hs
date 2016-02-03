@@ -1,6 +1,10 @@
-it "funcionMisteriosa1 tipa" $ do 
+it "funcionMisteriosa1 tipa con enteros" $ do 
   funcionMisteriosa1 const `shouldBe` 2
   
+it "funcionMisteriosa1 tipa con floantes" $ do 
+  funcionMisteriosa1 const `shouldBe` (2 :: Float)
+ 
+ 
 it "funcionMisteriosa2 tipa" $ do 
   funcionMisteriosa2 (+1) [2, 3] `shouldBe` 3
   
