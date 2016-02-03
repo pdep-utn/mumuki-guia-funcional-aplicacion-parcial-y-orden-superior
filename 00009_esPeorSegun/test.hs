@@ -8,5 +8,5 @@ describe "esPeorSegun" $ do
   it "esPeorSegun \"hola\" \"chau\" length == False" $ do 
     esPeorSegun "hola" "chau" length `shouldBe` False
 
-  it "esPeorSegun \"chau\" \"hola\" length == False" $ do 
-    esPeorSegun "chau" "hola" length `shouldBe` True
+  it "esPeorSegun \"hey\" \"hola\" length == True" $ do 
+    esPeorSegun "hey" "hola" length `shouldBe` True
