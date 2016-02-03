@@ -17,7 +17,7 @@ _etc.._
  
 Nope. Es horrible, repetimos la lógica de saludar tantas veces como formas de titular tengamos. 
 
-Normalmente, cuando tenemos este tipo de problemas lo que hacemos es _parametrizar_ la función. Pero acá lo varía no es un número, sino una función. ¿No podríamos parametrizarla?
+Normalmente, cuando tenemos este tipo de problemas lo que hacemos es _parametrizar_ la función. Pero acá lo que varía no es un número, sino una función. ¿No podríamos parametrizarla?
 
 ¡Sí! De eso se trata:
 
