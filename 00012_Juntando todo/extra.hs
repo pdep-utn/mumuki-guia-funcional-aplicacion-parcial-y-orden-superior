@@ -1,2 +1,2 @@
-esVacio :: String -> Int
+esVacio :: String -> Bool
 esVacio = (==0).length 
