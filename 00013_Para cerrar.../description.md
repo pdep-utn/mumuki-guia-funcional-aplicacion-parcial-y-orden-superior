@@ -1,6 +1,6 @@
 Y para cerrar, no podia faltar un último ejercicio en el que usemos todo. 
 
-> Definí una función `sumaDeDoblesSegun` que sume los siguientes de los dobles de dos valores, transformados según una función...
+> Definí una función `sumaDeDoblesSegun` que sume los dobles de dos valores, transformados según una función...
 
 Eh eh eh... ¿¿lo que??  :fearful:
 
