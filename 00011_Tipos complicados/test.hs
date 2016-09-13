@@ -4,7 +4,7 @@ it "funcionMisteriosa1 tipa con enteros" $ do
 it "funcionMisteriosa1 tipa con floantes" $ do 
   funcionMisteriosa1 const `shouldBe` (2 :: Float)
  
-it "funcionMisteriosa1 tipa con Booleanos" $ do 
+it "funcionMisteriosa1 tipa con booleanos" $ do 
   funcionMisteriosa1 (\a b -> a < 5 && b) `shouldBe` (True :: Bool)
  
 it "funcionMisteriosa2 tipa" $ do 
