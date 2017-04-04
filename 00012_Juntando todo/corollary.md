@@ -13,4 +13,4 @@ esNoVacio string = not (esVacio string)
 -- pero esta forma no usa composición ni aplicación parcial
 ```
 
-Lo interesante es que todas funcionan, hacen lo mismo, y tienen el mismo tipo: `String -> Int`
+Lo interesante es que todas funcionan, hacen lo mismo, y tienen el mismo tipo: `String -> Bool`
