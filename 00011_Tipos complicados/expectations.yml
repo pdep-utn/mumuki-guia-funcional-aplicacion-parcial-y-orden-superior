@@ -12,3 +12,5 @@ expectations:
   inspection: HasTypeSignature
 - binding: funcionMisteriosa3
   inspection: Not:HasBinding
+- binding: "*"
+  inspection: Except:UsesWrongCaseBindings
