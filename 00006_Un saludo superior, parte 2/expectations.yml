@@ -4,3 +4,5 @@ expectations:
   inspection: HasBinding
 - binding: "*"
   inspection: Except:HasRedundantParameter
+- binding: "*"
+  inspection: Except:UsesTooShortBindings
