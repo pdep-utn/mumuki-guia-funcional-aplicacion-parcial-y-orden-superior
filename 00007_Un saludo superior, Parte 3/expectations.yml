@@ -9,4 +9,4 @@ expectations:
 - binding: plana
   inspection: HasBinding
 - binding: "*"
-  inspection: Except:HasTooShortBindings
+  inspection: Except:HasTooShortIdentifiers
