@@ -1,29 +1,25 @@
-Primero, repaso: ¿qué significa aplicar una función? Simple: pasarle parámetros.  Por ejemplo, acá estamos aplicando la función length, que toma un parámetro
+Primero, repaso: ¿qué significa aplicar una función? Simple: pasarle parámetros.  Por ejemplo, acá estamos aplicando la función length, que toma un parámetro y devuelve un número:
 
 ```haskell
 ム length "hola"
 4
 ```
 
-Lo cual devuelve un número
-
-_(Probalo en el intérprete)_
-
-Y acá la función `gcd`, que toma dos y también nos devuelve un numero:
+Y acá la función `max`, que toma dos y nos devuelve un booleano:
 
 ```haskell
-ム gcd 4 5
-1
+ム max 9 6
+9
 ```
 
-_(Probalo en el intérprete)_
+_(Probalas en el intérprete)_
 
 Y acá estamos usando las funciones anteriores sin aplicarlas: 
 
 ```haskell
 ム length
 <function>
-ム gcd
+ム max
 <function>
 ```
 
