@@ -1,8 +1,6 @@
-Si jugaste lo suficiente en el ejercicio anterior, habrás descubierto que las funciones misteriosas simplemente eran funciones que estaban esperando los argumentos que no le pasaste antes. 
+Si jugaste lo suficiente en el ejercicio anterior, habrás descubierto que las funciones que teníamos cargadas en la consola simplemente estaban esperando los argumentos que no le pasaste antes. 
 
-Por ejemplo, `(+1)` es una función que espera el otro número faltante, y cuando la apliques, le hará: `faltante + 1`. Moraleja: (+1) es la función `siguiente`
-
-Y `*2` es la función `doble`. Y así. 
+Por ejemplo, `siguiente` es una función que espera el otro número faltante, y cuando la apliques, le hará: `1 + faltante`.
 
 Y esto señoras y señores, es lo que conocemos como **aplicación parcial**: aplicar a una función con menos argumentos de los "normales", para obtener otra que reciba los faltantes. 
 
@@ -28,7 +26,6 @@ O incluso, aún mas corto:
 dobleDelSiguiente = doble.(+1)
 doble x = x * 2
 ```
-
 
 > Ahora te toca a vos: copiá y modificá el código anterior y hacé lo mismo con la función doble. El objetivo es poder definir `dobleDelSiguiente` usando el `.` sin recurrir a una función auxiliar.
 
