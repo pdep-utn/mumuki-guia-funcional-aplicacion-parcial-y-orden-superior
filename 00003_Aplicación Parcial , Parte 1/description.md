@@ -13,7 +13,7 @@ Es decir, cuando aplico una función con menos argumentos de la que esta espera,
 >
 > ```haskell
 > siguiente = (1 +)
-> maximoCon6 = max 6
+> minimo6 = max 6
 > triple = (3 *) 
 > ```
 >
