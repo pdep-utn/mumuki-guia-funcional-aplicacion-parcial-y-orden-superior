@@ -6,7 +6,6 @@ Pero aquí viene lo bueno, jóvenes: ¿qué pasa si a una función la aplico, pe
 >
 > ```haskell
 > ム max 6
-> ム (+ 1)
-> ム gcd 8
-> ム div 3
+> ム (1 +)
+> ム (True &&)
 > ```
