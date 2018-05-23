@@ -1,3 +1,3 @@
-funcionMisteriosa1 = (+1)
-funcionMisteriosa2 = max 5
-funcionMisteriosa3 = (*3) 
+siguiente = (1 +)
+maximoCon6 = max 6
+triple = (3 *)

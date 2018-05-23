@@ -1,7 +1,7 @@
 Si nos seguiste, las expresiones anteriores, cuando las evaluamos en la consola, no fallan. Por el contrario, todas devuelven `<function>`
 
 ```haskell
-> ム div 3
+> ム max 6
 <function>
 ```
 
@@ -12,9 +12,9 @@ Es decir, cuando aplico una función con menos argumentos de la que esta espera,
 > Ya cargamos por vos en la consola las siguientes definiciones:
 >
 > ```haskell
-> funcionMisteriosa1 = (+1)
-> funcionMisteriosa2 = max 5
-> funcionMisteriosa3 = (*3) 
+> siguiente = (1 +)
+> maximoCon6 = max 6
+> triple = (3 *) 
 > ```
 >
-> Ahora probá usarlas, a ver si descubrís qué hacen. 
+> Ahora probá usarlas, a ver si descubrís qué hacen (los nombres nos dan una pista :wink:). 
