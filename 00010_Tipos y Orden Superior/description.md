@@ -21,4 +21,8 @@ saludar :: (String -> String) -> String -> String
 >
 > ```haskell
 > saludoDoble titulador uno otro = "Hola " ++ titulador uno ++ " y " ++ titulador otro  
+>```
+>```haskell
+>ム saludoDoble sr "Jose" "Juan"
+>"Hola Sr. Jose y Sr. Juan"
 > ```
