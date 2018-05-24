@@ -2,7 +2,7 @@ Nos dimos cuenta de un pequeño problema: cuando alguien no quiere llevar un tí
 
 ```haskell
 ム saludar "" "Cletus"
-"Hola  Cleuts"
+"Hola  Cletus"
 ```
 
 Buuu :sob:
