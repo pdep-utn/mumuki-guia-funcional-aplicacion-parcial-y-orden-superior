@@ -2,4 +2,4 @@ Felicitaciones, pero ahora nos topamos con que alguna gente quiere le antepongan
 
 > Reescribir `saludar` de forma que ahora reciba también un prefijo. 
 Por ejemplo   `saludar "Prof." "Edna Krabappel"` 
-deberia retornar `Hola Prof. Edna Krabappel` 
+deberia retornar `"Hola Prof. Edna Krabappel"` 
