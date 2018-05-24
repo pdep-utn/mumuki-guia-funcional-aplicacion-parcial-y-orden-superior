@@ -15,7 +15,7 @@ _etc.._
 
 
  
-Nope. Es horrible, repetimos la lógica de saludar tantas veces como formas de titular tengamos. Y no sólo eso. Si aparecieran nuevas formas de "titular" deberíamos crear nuevas formas de saludar por cada una de ellas.
+Nope. Es horrible, repetimos la lógica de saludar tantas veces como formas de titular tengamos. Y no sólo eso, si aparecieran nuevas formas de "titular" deberíamos crear nuevas formas de saludar por cada una de ellas.
 
 Normalmente, cuando tenemos este tipo de problemas lo que hacemos es _parametrizar_ lo que varía, es decir, lo recibimos por parámetro. Pero acá lo que cambía no es un número, sino una función. ¿No podríamos parametrizarla?
 
