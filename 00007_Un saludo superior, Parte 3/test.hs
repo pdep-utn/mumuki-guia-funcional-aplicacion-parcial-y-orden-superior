@@ -9,5 +9,5 @@ describe "tiposDeSaludos" $ do
         sr "Cletus" `shouldBe` "Sr. Cletus" 
         
         
-    it "plana \"Edna\"" $ do 
-        plana "Edna" `shouldBe` "Edna" 
+    it "sinTitulo \"Edna\"" $ do 
+        sinTitulo "Edna" `shouldBe` "Edna" 

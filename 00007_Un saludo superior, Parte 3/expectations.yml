@@ -6,7 +6,7 @@ expectations:
   inspection: HasBinding
 - binding: sr
   inspection: HasBinding
-- binding: plana
+- binding: sinTitulo
   inspection: HasBinding
 - binding: "*"
   inspection: Except:HasTooShortIdentifiers
