@@ -15,9 +15,9 @@ _etc.._
 
 
  
-Nope. Es horrible, repetimos la lógica de saludar tantas veces como formas de titular tengamos. 
+Nope. Es horrible, repetimos la lógica de saludar tantas veces como formas de titular tengamos. Y no sólo eso. Si aparecieran nuevas formas de "titular" deberíamos crear nuevas formas de saludar por cada una de ellas.
 
-Normalmente, cuando tenemos este tipo de problemas lo que hacemos es _parametrizar_ la función. Pero acá lo que varía no es un número, sino una función. ¿No podríamos parametrizarla?
+Normalmente, cuando tenemos este tipo de problemas lo que hacemos es _parametrizar_ lo que varía, es decir, lo recibimos por parámetro. Pero acá lo que cambía no es un número, sino una función. ¿No podríamos parametrizarla?
 
 ¡Sí! De eso se trata:
 
@@ -26,7 +26,7 @@ Normalmente, cuando tenemos este tipo de problemas lo que hacemos es _parametriz
 saludar titulador nombre = "Hola " ++ titulador nombre
 ```
 
-Ahora titulador ya no es una función "fija"  sino que un parámetro de saludar!
+Ahora titulador ya no es una función "fija"  sino que es un parámetro de saludar!
 
 > No nos creas: copiá y pegá esta función y enviala. Y **probala en la consola**, ya que estamos. 
 > 
