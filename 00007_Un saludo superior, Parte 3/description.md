@@ -9,7 +9,7 @@ Buuu :sob:
 
 No sólo eso, sino que hay gente que quiere un sufijo, en lugar de un prefijo. Por ejemplo "Rey de los Minisupers". 
 
-> No sabemos que hacer, pero por lo menos podemos escribir cuatro formas de diriginos a una persona: 
+> No sabemos como vamos a hacer esto, pero por lo menos podemos escribir cuatro funciones que nos van a ayudar a dirigirnos a las personas: 
 >
 > * `plana`: toma un nombre y lo devuelve tal cual vino. 
 > * `sr`: toma un nombre y le agrega adelante "Sr."
