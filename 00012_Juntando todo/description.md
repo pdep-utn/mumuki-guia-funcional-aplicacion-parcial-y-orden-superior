@@ -12,7 +12,7 @@ Primer ejemplo: he aquí una nueva definición de `esVacio` que usa aplicación 
 esVacio = (==0).length 
 ```
 
-> Veamos si se entiende: usando aplicación parcial y composición definí una función `esNoVacio` que diga si una lista es no vacía. 
+> Veamos si se entiende: usando aplicación parcial y composición definí una función `esNoVacio` que diga si un string es no vacío. 
 >
 > Escribí también su tipo.
 
