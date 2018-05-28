@@ -1,4 +1,4 @@
-Pero aquí viene lo bueno, jóvenes: ¿qué pasa si a una función la aplico, pero le paso menos argumentos que la función original? ¿Fallará?
+Pero _aquí viene lo bueno, jóvenes_: ¿qué pasa si a una función la aplico, pero le paso menos argumentos que la función original? ¿Fallará?
 
 > No le vamos a quitar la emoción, ¡probalo vos mismo en la consola! 
 >
