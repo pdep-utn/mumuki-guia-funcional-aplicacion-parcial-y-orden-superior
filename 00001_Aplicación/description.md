@@ -5,7 +5,7 @@ Primero, repaso: ¿qué significa aplicar una función? Simple: pasarle parámet
 4
 ```
 
-Y acá la función `max`, que toma dos y nos devuelve un booleano:
+Y acá la función `max`, que toma dos números y nos devuelve el mayor:
 
 ```haskell
 ム max 9 6
