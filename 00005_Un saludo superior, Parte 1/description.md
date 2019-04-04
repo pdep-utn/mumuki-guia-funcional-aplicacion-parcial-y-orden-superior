@@ -1,6 +1,6 @@
-Nos fuimos para arriba. Tras largos años programando en haskell... escena perdida....ahora tenemos nuestra gran y hermosa empresa. 
+Nos fuimos para arriba. Tras largos años programando en Haskell... escena perdida....ahora tenemos nuestra gran y hermosa empresa. 
 
-Y todos los dias recibimos muchas visitas de gente importante que quiere conocernos. 
+Y todos los días recibimos muchas visitas de gente importante que quiere conocernos. 
 
 Como queremos ser corteses, cuando la visita llega, queremos saludarla con un mensaje de bienvenida, por ejemplo:
 

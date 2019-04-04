@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: saludar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: saludar
   inspection: HasBinding
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Except:HasTooShortIdentifiers
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Except:HasRedundantParameter

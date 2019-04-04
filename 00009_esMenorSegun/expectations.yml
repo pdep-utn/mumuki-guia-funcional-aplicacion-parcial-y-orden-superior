@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: esMenorSegun
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: esMenorSegun
   inspection: HasBinding

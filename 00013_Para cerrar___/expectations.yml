@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: sumaDeDoblesSegun
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: sumaDeDoblesSegun
   inspection: HasBinding
-- binding: sumaDeDoblesSegun
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: sumaDeDoblesSegun
   inspection: HasComposition
