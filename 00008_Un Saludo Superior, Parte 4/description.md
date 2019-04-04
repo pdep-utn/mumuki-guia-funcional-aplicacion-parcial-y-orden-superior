@@ -2,7 +2,7 @@ Ahora ya tenemos cuatro formas de "titular" a alguien, y una forma de saludarlo.
 
 ¿Qué podríamos hacer?
 
-Opción fácil: cuatro funciones `saludar`:
+Opción fácil: cuatro funciones `saludar`: 
 
 ```haskell
 saludarSr nombre = "Hola " ++ sr nombre
