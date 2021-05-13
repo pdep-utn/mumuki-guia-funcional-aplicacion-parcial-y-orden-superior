@@ -8,7 +8,7 @@ it "funcionMisteriosa1 tipa con booleanos" $ do
   funcionMisteriosa1 (\a b -> a < 5 && b) `shouldBe` (True :: Bool)
  
 it "funcionMisteriosa2 tipa" $ do 
-  funcionMisteriosa2 (+1) [2, 3] `shouldBe` 3
+  funcionMisteriosa2 (+1) "hola" `shouldBe` 5
   
 it "functionMisteriosa3 tipa si el último argumento es un número"$ do
   funcionMisteriosa3 const (+1) 4 `shouldBe` (5 :: Int)
